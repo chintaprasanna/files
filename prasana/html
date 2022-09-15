@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<style>
+    body{
+        background-color: lightpink;
+    }
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+#customers tr:nth-child(even){background-color: yellow;}
+
+#customers tr:hover {background-color:green;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #aa046a;
+  color: white;
+
+}
+h1{
+   text-align:center ;
+   text-shadow: 2px 2px red;
+}
+</style>
+</head>
+<body>
+<h1 style="color:green;"> EMPLOYEE TABLE</h1></style>
+<div data-aos="zoom-in">
+<marquee direction="up"><table id="customers">
+  <tr>
+    <th>Name</th>
+    <th>Company</th>
+    <th>address</th>
+  </tr>
+  <tr>
+    <td>prasanna</td>
+    <td>tcs</td>
+    <td>hitechcity</td>
+  </tr>
+  <tr>
+    <td>jagan</td>
+    <td>perfex</td>
+    <td>madhapur</td>
+  </tr>
+  <tr>
+    <td>charan</td>
+    <td>wipro</td>
+    <td>nanakaramaguda</td>
+  </tr>
+  <tr>
+    <td>ram</td>
+    <td>capgemini</td>
+    <td>bangalore</td>
+  </tr>
+  <tr>
+    <td>ram prasad</td>
+    <td>perfex</td>
+    <td>madhapur</td>
+  </tr>
+  <tr>
+    <td>gopi</td>
+    <td>perfex</td>
+    <td>madhapur</td>
+  </tr>
+  <tr>
+    <td>santhosh</td>
+    <td>perfex</td>
+    <td>hitechcity</td>
+  </tr>
+  <tr>
+    <td>nagaraju</td>
+    <td>farma</td>
+    <td>jubilee hills</td>
+  </tr>
+  <tr>
+    <td>subbu</td>
+    <td>hetro</td>
+    <td>hyd</td>
+  </tr>
+  <tr>
+    <td>tirumal</td>
+    <td>tcs</td>
+    <td>hitechcity</td>
+  </tr>
+</table>
+</div></marquee>
+
+
+
+
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+    AOS.init();
+  </script>
+</body>
+</html>
+
+
+<br><br><br>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<style>
+    body{
+        background-color: lightpink;
+    }
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: yellow;}
+
+#customers tr:hover {background-color:green;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #aa046a;
+  color: white;
+}
+h1{
+   text-align:center ;
+}
+</style>
+</head>
+<body>
+<h1 style="color:green;"> EMPLOYEE TABLE</h1></style>
+<div data-aos="zoom-in">
+<marquee direction="down"><table id="customers">
+  <tr>
+    <th>Name</th>
+    <th>Company</th>
+    <th>address</th>
+  </tr>
+  <tr>
+    <td>prasanna</td>
+    <td>tcs</td>
+    <td>hitechcity</td>
+  </tr>
+  <tr>
+    <td>jagan</td>
+    <td>perfex</td>
+    <td>madhapur</td>
+  </tr>
+  <tr>
+    <td>charan</td>
+    <td>wipro</td>
+    <td>nanakaramaguda</td>
+  </tr>
+  <tr>
+    <td>ram</td>
+    <td>capgemini</td>
+    <td>bangalore</td>
+  </tr>
+  <tr>
+    <td>ram prasad</td>
+    <td>perfex</td>
+    <td>madhapur</td>
+  </tr>
+  <tr>
+    <td>gopi</td>
+    <td>perfex</td>
+    <td>madhapur</td>
+  </tr>
+  <tr>
+    <td>santhosh</td>
+    <td>perfex</td>
+    <td>hitechcity</td>
+  </tr>
+  <tr>
+    <td>nagaraju</td>
+    <td>farma</td>
+    <td>jubilee hills</td>
+  </tr>
+  <tr>
+    <td>subbu</td>
+    <td>hetro</td>
+    <td>hyd</td>
+  </tr>
+  <tr>
+    <td>tirumal</td>
+    <td>tcs</td>
+    <td>hitechcity</td>
+  </tr>
+</table>
+</div></marquee>
+
+
+
+
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+    AOS.init();
+  </script>
+</body>
+</html>
+
+<br><br><br>
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+<style>
+    body{
+        background-color: lightpink;
+    }
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td, #customers th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#customers tr:nth-child(even){background-color: yellow;}
+
+#customers tr:hover {background-color:green;}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #aa046a;
+  color: white;
+}
+h1{
+   text-align:center ;
+}
+</style>
+</head>
+<body>
+<h1 style="color:green;"> EMPLOYEE TABLE</h1></style>
+<div data-aos="zoom-in">
+<marquee direction="right"><table id="customers">
+  <tr>
+    <th>Name</th>
+    <th>Company</th>
+    <th>address</th>
+  </tr>
+  <tr>
+    <td>prasanna</td>
+    <td>tcs</td>
+    <td>hitechcity</td>
+  </tr>
+  <tr>
+    <td>jagan</td>
+    <td>perfex</td>
+    <td>madhapur</td>
+  </tr>
+  <tr>
+    <td>charan</td>
+    <td>wipro</td>
+    <td>nanakaramaguda</td>
+  </tr>
+  <tr>
+    <td>ram</td>
+    <td>capgemini</td>
+    <td>bangalore</td>
+  </tr>
+  <tr>
+    <td>ram prasad</td>
+    <td>perfex</td>
+    <td>madhapur</td>
+  </tr>
+  <tr>
+    <td>gopi</td>
+    <td>perfex</td>
+    <td>madhapur</td>
+  </tr>
+  <tr>
+    <td>santhosh</td>
+    <td>perfex</td>
+    <td>hitechcity</td>
+  </tr>
+  <tr>
+    <td>nagaraju</td>
+    <td>farma</td>
+    <td>jubilee hills</td>
+  </tr>
+  <tr>
+    <td>subbu</td>
+    <td>hetro</td>
+    <td>hyd</td>
+  </tr>
+  <tr>
+    <td>tirumal</td>
+    <td>tcs</td>
+    <td>hitechcity</td>
+  </tr>
+</table>
+</div></marquee>
+
+
+
+
+
+<script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+<script>
+    AOS.init();
+  </script>
+</body>
+</html>
+<br><br><br>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+  counter-reset: section;
+  
+}
+
+h2::before {
+  counter-increment: section;
+  content: "Section " counter(section) ": ";
+}
+</style>
+</head>
+<body>
+
+<h1>ABOVE TABLE HEADINGS</h1>
+
+<h2>Direction-up</h2>
+<h2>Direction-down</h2>
+<h2>Direction-right</h2>
+<h2>Direction-left</h2>
+<h2>SQL Tutorial</h2>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
